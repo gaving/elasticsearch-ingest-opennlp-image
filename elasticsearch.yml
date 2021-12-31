@@ -1,0 +1,5 @@
+cluster.name: "docker-cluster"
+network.host: 0.0.0.0
+ingest.opennlp.model.file.persons: en-ner-persons.bin
+ingest.opennlp.model.file.dates: en-ner-dates.bin
+ingest.opennlp.model.file.locations: en-ner-locations.bin
